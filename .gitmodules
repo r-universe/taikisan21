@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "PamBinaries"]
-	path = PamBinaries
-	url = https://github.com/taikisan21/pambinaries
 [submodule "PAMmisc"]
 	path = PAMmisc
 	url = https://github.com/taikisan21/pammisc
 [submodule "PAMpal"]
 	path = PAMpal
 	url = https://github.com/taikisan21/pampal
+[submodule "PamBinaries"]
+	path = PamBinaries
+	url = https://github.com/taikisan21/pambinaries
