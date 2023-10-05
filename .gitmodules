@@ -8,6 +8,9 @@
 [submodule "PAMpal"]
 	path = PAMpal
 	url = https://github.com/taikisan21/pampal
+[submodule "PAMscapes"]
+	path = PAMscapes
+	url = https://github.com/taikisan21/pamscapes
 [submodule "PamBinaries"]
 	path = PamBinaries
 	url = https://github.com/taikisan21/pambinaries
